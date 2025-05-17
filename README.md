@@ -93,7 +93,7 @@ Special thanks to:
 
 ---
 
-## 📧 Contact
+## 📧 Authors
 
 **Team HustleHERS**  
 
