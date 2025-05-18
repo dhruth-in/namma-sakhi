@@ -61,6 +61,10 @@ https://github.com/user-attachments/assets/f2942e28-fac1-47cd-ac48-ee6aad1b6c52
 
 https://github.com/user-attachments/assets/76dc78d2-cfb8-4a33-8c5a-1095c424c14b
 
+7. Tip of the day
+
+https://github.com/user-attachments/assets/95e40328-674a-4777-96a4-fcea772111b7
+
 ---
 
 ## 👥 Target Users
