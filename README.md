@@ -109,4 +109,8 @@ Women across rural and urban India, especially:
 
 ---
 
+## 💻 Deployed Link
+
+https://cdn.botpress.cloud/webchat/v2.4/shareable.html?configUrl=https://files.bpcontent.cloud/2025/05/17/13/20250517135151-YEVMEUG6.json
+
 > _"NammaSakhi – because every woman deserves a digital companion she can trust."_
