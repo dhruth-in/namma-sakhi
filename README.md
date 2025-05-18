@@ -35,6 +35,34 @@ The absence of a trusted, culturally familiar digital assistant worsens this div
 
 ---
 
+## Outputs
+
+1. UPI Info in English
+
+https://github.com/user-attachments/assets/8effd852-857e-412e-91f1-91ea816d30c2
+
+2. State Welfare Schemes in English
+
+https://github.com/user-attachments/assets/00aaf73d-9381-47e9-92ee-e9a60fbad047
+
+3. National Welfare Schemes in English
+
+https://github.com/user-attachments/assets/c6c989a2-aacb-410a-9f7b-ad42e5be2084
+
+4. Emergency Contacts in English
+
+https://github.com/user-attachments/assets/159e3c21-ad48-4d30-9298-c657086af9c6
+
+5. Welfare Schemes in Hindi
+
+https://github.com/user-attachments/assets/f2942e28-fac1-47cd-ac48-ee6aad1b6c52
+
+6. Emergency Contacts in Kannada
+
+https://github.com/user-attachments/assets/76dc78d2-cfb8-4a33-8c5a-1095c424c14b
+
+---
+
 ## 👥 Target Users
 
 Women across rural and urban India, especially:
@@ -64,34 +92,12 @@ Women across rural and urban India, especially:
 - ✅ Promotes independence, confidence, and digital literacy
 
 ---
-
-## 🌍 Social Impact
-
-NammaSakhi drives change by:
-- Bridging the gender-based digital divide
-- Enabling financial independence and access to services
-- Promoting digital safety and resilience
-- Building confidence through knowledge and engagement
-
----
-
 ## 📲 How It Works
 
 1. **User messages the chatbot** on WhatsApp.
 2. **Botpress** handles conversation flow with context-aware logic.
 3. **OpenAI** processes the user's query and generates responses.
 4. The bot **responds in the user's regional language** with relevant information or guidance.
-
----
-
-## 🙌 Acknowledgements
-
-Special thanks to:
-- All the women who inspired the creation of this project
-- Open-source communities of Botpress and OpenAI
-- Mentors and organizers who supported our innovation journey
-
----
 
 ## 📧 Authors
 
